@@ -1,0 +1,428 @@
+13:07:46.371 [main] INFO  c.n.e.project.service.log.LogService - 사용량 12(톤)에 따른 상수도요금 오름차순 랭킹 5
+
+13:07:46.570 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.parser.CsvOrJsonDataParser].[readFile] [98ms]
+
+13:07:46.570 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[load] [182ms]
+
+13:07:46.599 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[findTicketByUsage] [2ms]
+
+13:07:46.601 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.DefaultUsageWaterworks].[calculateUsagePrice] [29ms]
+
+13:07:46.644 [main] INFO  c.n.e.project.service.log.LogService - 
+[WaterBill{city=청송군, sector='가정용, unitPrice=220, totalPrice=2640}
+, WaterBill{city=고령군, sector='공업용, unitPrice=230, totalPrice=2760}
+, WaterBill{city=청송군, sector='욕탕용, unitPrice=330, totalPrice=3960}
+, WaterBill{city=광주시, sector='가정용, unitPrice=400, totalPrice=4800}
+, WaterBill{city=통영시, sector='원정수판매용, unitPrice=413, totalPrice=4956}
+]
+13:07:46.644 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.ReportResult].[showResult] [42ms]
+
+13:07:46.644 [main] INFO  c.n.e.project.service.log.LogService - ===================================================================================
+
+13:08:05.580 [main] INFO  c.n.e.project.service.log.LogService - 사용량 12(톤)에 따른 상수도요금 오름차순 랭킹 5
+
+13:08:05.687 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.parser.CsvOrJsonDataParser].[readFile] [17ms]
+
+13:08:05.687 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[load] [89ms]
+
+13:08:05.707 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[findTicketByUsage] [2ms]
+
+13:08:05.711 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.DefaultUsageWaterworks].[calculateUsagePrice] [23ms]
+
+13:08:05.755 [main] INFO  c.n.e.project.service.log.LogService - 
+[WaterBill{city= 청송군 , sector=' 가정용 , unitPrice=220, totalPrice=2640}
+, WaterBill{city= 고령군 , sector=' 공업용 , unitPrice=230, totalPrice=2760}
+, WaterBill{city= 청송군 , sector='욕탕용, unitPrice=330, totalPrice=3960}
+, WaterBill{city= 광주시 , sector=' 가정용 , unitPrice=400, totalPrice=4800}
+, WaterBill{city= 통영시 , sector=' 원정수판매용 , unitPrice=413, totalPrice=4956}
+]
+13:08:05.755 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.ReportResult].[showResult] [44ms]
+
+13:08:05.755 [main] INFO  c.n.e.project.service.log.LogService - ===================================================================================
+
+13:08:44.004 [main] INFO  c.n.e.project.service.log.LogService - 사용량 100(톤)에 따른 상수도요금 오름차순 랭킹 5
+
+13:08:44.102 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.parser.CsvOrJsonDataParser].[readFile] [17ms]
+
+13:08:44.102 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[load] [84ms]
+
+13:08:44.123 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[findTicketByUsage] [2ms]
+
+13:08:44.126 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.DefaultUsageWaterworks].[calculateUsagePrice] [22ms]
+
+13:08:44.154 [main] INFO  c.n.e.project.service.log.LogService - 
+[WaterBill{city= 고령군 , sector=' 공업용 , unitPrice=230, totalPrice=23000}
+, WaterBill{city= 청송군 , sector='욕탕용, unitPrice=330, totalPrice=33000}
+, WaterBill{city= 통영시 , sector=' 원정수판매용 , unitPrice=413, totalPrice=41300}
+, WaterBill{city= 금산군 , sector=' 정수용 , unitPrice=433, totalPrice=43300}
+, WaterBill{city= 나주시 , sector=' 임시용(상) , unitPrice=433, totalPrice=43300}
+]
+13:08:44.154 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.ReportResult].[showResult] [28ms]
+
+13:08:44.154 [main] INFO  c.n.e.project.service.log.LogService - ===================================================================================
+
+13:08:50.449 [main] INFO  c.n.e.project.service.log.LogService - 사용량 200(톤)에 따른 상수도요금 오름차순 랭킹 5
+
+13:08:50.553 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.parser.CsvOrJsonDataParser].[readFile] [18ms]
+
+13:08:50.553 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[load] [89ms]
+
+13:08:50.575 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[findTicketByUsage] [2ms]
+
+13:08:50.578 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.DefaultUsageWaterworks].[calculateUsagePrice] [23ms]
+
+13:08:50.604 [main] INFO  c.n.e.project.service.log.LogService - 
+[WaterBill{city= 고령군 , sector=' 공업용 , unitPrice=230, totalPrice=46000}
+, WaterBill{city= 청송군 , sector='욕탕용, unitPrice=330, totalPrice=66000}
+, WaterBill{city= 통영시 , sector=' 원정수판매용 , unitPrice=413, totalPrice=82600}
+, WaterBill{city= 금산군 , sector=' 정수용 , unitPrice=433, totalPrice=86600}
+, WaterBill{city= 나주시 , sector=' 임시용(상) , unitPrice=433, totalPrice=86600}
+]
+13:08:50.605 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.ReportResult].[showResult] [26ms]
+
+13:08:50.605 [main] INFO  c.n.e.project.service.log.LogService - ===================================================================================
+
+13:08:58.744 [main] INFO  c.n.e.project.service.log.LogService - 사용량 1000(톤)에 따른 상수도요금 오름차순 랭킹 5
+
+13:08:58.848 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.parser.CsvOrJsonDataParser].[readFile] [23ms]
+
+13:08:58.848 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[load] [92ms]
+
+13:08:58.870 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[findTicketByUsage] [2ms]
+
+13:08:58.873 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.DefaultUsageWaterworks].[calculateUsagePrice] [24ms]
+
+13:08:58.899 [main] INFO  c.n.e.project.service.log.LogService - 
+[WaterBill{city= 고령군 , sector=' 공업용 , unitPrice=370, totalPrice=370000}
+, WaterBill{city= 통영시 , sector=' 원정수판매용 , unitPrice=413, totalPrice=413000}
+, WaterBill{city= 금산군 , sector=' 정수용 , unitPrice=433, totalPrice=433000}
+, WaterBill{city= 나주시 , sector=' 임시용(상) , unitPrice=433, totalPrice=433000}
+, WaterBill{city= 장흥군 , sector=' 임시용(상) , unitPrice=433, totalPrice=433000}
+]
+13:08:58.899 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.ReportResult].[showResult] [25ms]
+
+13:08:58.899 [main] INFO  c.n.e.project.service.log.LogService - ===================================================================================
+
+13:09:05.689 [main] INFO  c.n.e.project.service.log.LogService - 사용량 1000000(톤)에 따른 상수도요금 오름차순 랭킹 5
+
+13:09:05.787 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.parser.CsvOrJsonDataParser].[readFile] [15ms]
+
+13:09:05.787 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[load] [85ms]
+
+13:09:05.809 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[findTicketByUsage] [2ms]
+
+13:09:05.812 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.DefaultUsageWaterworks].[calculateUsagePrice] [24ms]
+
+13:09:05.838 [main] INFO  c.n.e.project.service.log.LogService - 
+[WaterBill{city= 통영시 , sector=' 원정수판매용 , unitPrice=413, totalPrice=413000000}
+, WaterBill{city= 진도군 , sector=' 가정용 , unitPrice=590, totalPrice=590000000}
+, WaterBill{city= 함평군 , sector=' 가정용 , unitPrice=680, totalPrice=680000000}
+, WaterBill{city= 양주시 , sector='전용공업용, unitPrice=726, totalPrice=726000000}
+, WaterBill{city= 예천군 , sector=' 산업용 , unitPrice=787, totalPrice=787000000}
+]
+13:09:05.838 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.ReportResult].[showResult] [25ms]
+
+13:09:05.838 [main] INFO  c.n.e.project.service.log.LogService - ===================================================================================
+
+13:09:12.948 [main] INFO  c.n.e.project.service.log.LogService - 사용량 10000000(톤)에 따른 상수도요금 오름차순 랭킹 5
+
+13:09:13.048 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.parser.CsvOrJsonDataParser].[readFile] [18ms]
+
+13:09:13.048 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[load] [87ms]
+
+13:09:13.071 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[findTicketByUsage] [2ms]
+
+13:09:13.074 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.DefaultUsageWaterworks].[calculateUsagePrice] [25ms]
+
+13:09:13.108 [main] INFO  c.n.e.project.service.log.LogService - 
+[WaterBill{city= 양주시 , sector='전용공업용, unitPrice=726, totalPrice=7260000000}
+, WaterBill{city= 양주시 , sector='욕탕용, unitPrice=1312, totalPrice=13120000000}
+, WaterBill{city= 양주시 , sector=' 일반용 , unitPrice=1840, totalPrice=18400000000}
+]
+13:09:13.108 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.ReportResult].[showResult] [34ms]
+
+13:09:13.108 [main] INFO  c.n.e.project.service.log.LogService - ===================================================================================
+
+13:18:42.928 [main] INFO  c.n.e.project.service.log.LogService - 사용량 2(톤)에 따른 상수도요금 오름차순 랭킹 5
+
+13:18:43.030 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.parser.CsvOrJsonDataParser].[readFile] [18ms]
+
+13:18:43.031 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[load] [88ms]
+
+13:18:43.054 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[findTicketByUsage] [2ms]
+
+13:18:43.057 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.DefaultUsageWaterworks].[calculateUsagePrice] [25ms]
+
+13:18:43.079 [main] INFO  c.n.e.project.service.log.LogService - 
+[WaterBill{city= 청송군 , sector=' 가정용 , unitPrice=220, totalPrice=440}
+, WaterBill{city= 고령군 , sector=' 공업용 , unitPrice=230, totalPrice=460}
+, WaterBill{city= 진도군 , sector=' 가정용 , unitPrice=300, totalPrice=600}
+, WaterBill{city= 청송군 , sector='욕탕용, unitPrice=330, totalPrice=660}
+, WaterBill{city= 예천군 , sector=' 가정용 , unitPrice=345, totalPrice=690}
+]
+13:18:43.080 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.ReportResult].[showResult] [22ms]
+
+13:18:43.080 [main] INFO  c.n.e.project.service.log.LogService - ===================================================================================
+
+13:53:09.391 [main] INFO  c.n.e.project.service.log.LogService - 사용량 999999999(톤)에 따른 상수도요금 오름차순 랭킹 5
+
+13:53:09.487 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.parser.CsvOrJsonDataParser].[readFile] [16ms]
+
+13:53:09.487 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[load] [81ms]
+
+13:53:09.506 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[findTicketByUsage] [2ms]
+
+13:53:09.510 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.DefaultUsageWaterworks].[calculateUsagePrice] [22ms]
+
+13:53:09.539 [main] INFO  c.n.e.project.service.log.LogService - 
+[WaterBill{city= 양주시 , sector='전용공업용, unitPrice=726, totalPrice=725999999274}
+, WaterBill{city= 양주시 , sector='욕탕용, unitPrice=1312, totalPrice=1311999998688}
+, WaterBill{city= 양주시 , sector=' 일반용 , unitPrice=1840, totalPrice=1839999998160}
+]
+13:53:09.539 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.ReportResult].[showResult] [28ms]
+
+13:53:09.539 [main] INFO  c.n.e.project.service.log.LogService - ===================================================================================
+
+13:56:50.987 [main] INFO  c.n.e.project.service.log.LogService - 사용량 1230(톤)에 따른 상수도요금 오름차순 랭킹 5
+
+13:56:51.086 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.parser.CsvDataParser].[readFile] [19ms]
+
+13:56:51.086 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[load] [84ms]
+
+13:56:51.106 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[findTicketByUsage] [2ms]
+
+13:56:51.109 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.DefaultUsageWaterworks].[calculateUsagePrice] [22ms]
+
+13:56:51.146 [main] INFO  c.n.e.project.service.log.LogService - 
+[WaterBill{city= 고령군 , sector=' 공업용 , unitPrice=370, totalPrice=455100}
+, WaterBill{city= 통영시 , sector=' 원정수판매용 , unitPrice=413, totalPrice=507990}
+, WaterBill{city= 금산군 , sector=' 정수용 , unitPrice=433, totalPrice=532590}
+, WaterBill{city= 나주시 , sector=' 임시용(상) , unitPrice=433, totalPrice=532590}
+, WaterBill{city= 장흥군 , sector=' 임시용(상) , unitPrice=433, totalPrice=532590}
+]
+13:56:51.146 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.ReportResult].[showResult] [36ms]
+
+13:56:51.146 [main] INFO  c.n.e.project.service.log.LogService - ===================================================================================
+
+13:05:16.214 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'formatWaterBill': Unsatisfied dependency expressed through field 'csvDataParser'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'com.nhnacademy.edu.project.repository.parser.DataParser' available: expected single matching bean but found 2: csvOrJsonDataParser,jsonDataParser
+13:06:07.807 [main] INFO  c.n.e.project.service.log.LogService - 사용량 10(톤)에 따른 상수도요금 오름차순 랭킹 5
+
+13:06:07.908 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.parser.CsvDataParser].[readFile] [21ms]
+
+13:06:07.908 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[load] [88ms]
+
+13:06:07.930 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[findTicketByUsage] [2ms]
+
+13:06:07.934 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.DefaultUsageWaterworks].[calculateUsagePrice] [25ms]
+
+13:06:07.959 [main] INFO  c.n.e.project.service.log.LogService - 
+[WaterBill{city= 청송군 , sector=' 가정용 , unitPrice=220, totalPrice=2200}
+, WaterBill{city= 고령군 , sector=' 공업용 , unitPrice=230, totalPrice=2300}
+, WaterBill{city= 진도군 , sector=' 가정용 , unitPrice=300, totalPrice=3000}
+, WaterBill{city= 청송군 , sector='욕탕용, unitPrice=330, totalPrice=3300}
+, WaterBill{city= 예천군 , sector=' 가정용 , unitPrice=345, totalPrice=3450}
+]
+13:06:07.959 [main] INFO  c.n.e.project.service.log.LogService - ===================================================================================
+
+13:06:07.959 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.ReportResult].[showResult] [24ms]
+
+13:06:34.294 [main] INFO  c.n.e.project.service.log.LogService - 사용량 10(톤)에 따른 상수도요금 오름차순 랭킹 5
+
+13:06:34.492 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.parser.JsonDataParser].[readFile] [103ms]
+
+13:06:34.492 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[load] [183ms]
+
+13:06:34.520 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[findTicketByUsage] [2ms]
+
+13:06:34.523 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.DefaultUsageWaterworks].[calculateUsagePrice] [30ms]
+
+13:06:34.557 [main] INFO  c.n.e.project.service.log.LogService - 
+[WaterBill{city=청송군, sector='가정용, unitPrice=220, totalPrice=2200}
+, WaterBill{city=고령군, sector='공업용, unitPrice=230, totalPrice=2300}
+, WaterBill{city=진도군, sector='가정용, unitPrice=300, totalPrice=3000}
+, WaterBill{city=청송군, sector='욕탕용, unitPrice=330, totalPrice=3300}
+, WaterBill{city=예천군, sector='가정용, unitPrice=345, totalPrice=3450}
+]
+13:06:34.557 [main] INFO  c.n.e.project.service.log.LogService - ===================================================================================
+
+13:06:34.557 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.ReportResult].[showResult] [33ms]
+
+13:12:44.191 [main] INFO  c.n.e.project.service.log.LogService - 사용량 999999(톤)에 따른 상수도요금 오름차순 랭킹 5
+
+13:12:44.376 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.parser.JsonDataParser].[readFile] [94ms]
+
+13:12:44.376 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[load] [172ms]
+
+13:12:44.402 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[findTicketByUsage] [1ms]
+
+13:12:44.404 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.DefaultUsageWaterworks].[calculateUsagePrice] [26ms]
+
+13:12:44.440 [main] INFO  c.n.e.project.service.log.LogService - 
+[WaterBill{city=고령군, sector='공업용, unitPrice=370, totalPrice=369999630}
+, WaterBill{city=통영시, sector='원정수판매용, unitPrice=413, totalPrice=412999587}
+, WaterBill{city=금산군, sector='정수용, unitPrice=433, totalPrice=432999567}
+, WaterBill{city=나주시, sector='임시용(상), unitPrice=433, totalPrice=432999567}
+, WaterBill{city=장흥군, sector='임시용(상), unitPrice=433, totalPrice=432999567}
+]
+13:12:44.440 [main] INFO  c.n.e.project.service.log.LogService - ===================================================================================
+
+13:12:44.440 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.ReportResult].[showResult] [35ms]
+
+13:20:34.870 [main] INFO  c.n.e.project.service.log.LogService - 사용량 10(톤)에 따른 상수도요금 오름차순 랭킹 5
+
+13:20:35.079 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.parser.JsonDataParser].[readFile] [107ms]
+
+13:20:35.080 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[load] [195ms]
+
+13:20:35.111 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[findTicketByUsage] [2ms]
+
+13:20:35.114 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.DefaultUsageWaterworks].[calculateUsagePrice] [32ms]
+
+13:20:35.141 [main] INFO  c.n.e.project.service.log.LogService - 
+[WaterBill{city=청송군, sector='가정용, unitPrice=220, totalPrice=2200}
+, WaterBill{city=고령군, sector='공업용, unitPrice=230, totalPrice=2300}
+, WaterBill{city=진도군, sector='가정용, unitPrice=300, totalPrice=3000}
+, WaterBill{city=청송군, sector='욕탕용, unitPrice=330, totalPrice=3300}
+, WaterBill{city=예천군, sector='가정용, unitPrice=345, totalPrice=3450}
+]
+13:20:35.141 [main] INFO  c.n.e.project.service.log.LogService - ===================================================================================
+
+13:20:35.141 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.ReportResult].[showResult] [26ms]
+
+13:22:28.524 [main] INFO  c.n.e.project.service.log.LogService - 사용량 10(톤)에 따른 상수도요금 오름차순 랭킹 5
+
+13:22:28.741 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.parser.JsonDataParser].[readFile] [105ms]
+
+13:22:28.741 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[load] [194ms]
+
+13:22:28.770 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[findTicketByUsage] [1ms]
+
+13:22:28.774 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.DefaultUsageWaterworks].[calculateUsagePrice] [31ms]
+
+13:22:28.807 [main] INFO  c.n.e.project.service.log.LogService - 
+[WaterBill{city=청송군, sector='가정용, unitPrice=220, totalPrice=2200}
+, WaterBill{city=고령군, sector='공업용, unitPrice=230, totalPrice=2300}
+, WaterBill{city=진도군, sector='가정용, unitPrice=300, totalPrice=3000}
+, WaterBill{city=청송군, sector='욕탕용, unitPrice=330, totalPrice=3300}
+, WaterBill{city=예천군, sector='가정용, unitPrice=345, totalPrice=3450}
+]
+13:22:28.807 [main] INFO  c.n.e.project.service.log.LogService - ===================================================================================
+
+13:22:28.807 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.ReportResult].[showResult] [32ms]
+
+13:22:58.289 [main] INFO  c.n.e.project.service.log.LogService - 사용량 10(톤)에 따른 상수도요금 오름차순 랭킹 5
+
+13:22:58.489 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.parser.JsonDataParser].[readFile] [92ms]
+
+13:22:58.489 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[load] [183ms]
+
+13:22:58.521 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[findTicketByUsage] [2ms]
+
+13:22:58.524 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.DefaultUsageWaterworks].[calculateUsagePrice] [33ms]
+
+13:22:58.551 [main] INFO  c.n.e.project.service.log.LogService - 
+[WaterBill{city=청송군, sector='가정용, unitPrice=220, totalPrice=2200}
+, WaterBill{city=고령군, sector='공업용, unitPrice=230, totalPrice=2300}
+, WaterBill{city=진도군, sector='가정용, unitPrice=300, totalPrice=3000}
+, WaterBill{city=청송군, sector='욕탕용, unitPrice=330, totalPrice=3300}
+, WaterBill{city=예천군, sector='가정용, unitPrice=345, totalPrice=3450}
+]
+13:22:58.551 [main] INFO  c.n.e.project.service.log.LogService - ===================================================================================
+
+13:22:58.551 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.ReportResult].[showResult] [26ms]
+
+13:23:18.916 [main] INFO  c.n.e.project.service.log.LogService - 사용량 10(톤)에 따른 상수도요금 오름차순 랭킹 5
+
+13:23:19.003 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.parser.JsonDataParser].[toString] [0ms]
+
+13:23:19.103 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.parser.JsonDataParser].[readFile] [99ms]
+
+13:23:19.104 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[load] [171ms]
+
+13:23:19.130 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[findTicketByUsage] [3ms]
+
+13:23:19.134 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.DefaultUsageWaterworks].[calculateUsagePrice] [29ms]
+
+13:23:19.176 [main] INFO  c.n.e.project.service.log.LogService - 
+[WaterBill{city=청송군, sector='가정용, unitPrice=220, totalPrice=2200}
+, WaterBill{city=고령군, sector='공업용, unitPrice=230, totalPrice=2300}
+, WaterBill{city=진도군, sector='가정용, unitPrice=300, totalPrice=3000}
+, WaterBill{city=청송군, sector='욕탕용, unitPrice=330, totalPrice=3300}
+, WaterBill{city=예천군, sector='가정용, unitPrice=345, totalPrice=3450}
+]
+13:23:19.176 [main] INFO  c.n.e.project.service.log.LogService - ===================================================================================
+
+13:23:19.176 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.ReportResult].[showResult] [41ms]
+
+13:23:40.786 [main] INFO  c.n.e.project.service.log.LogService - 사용량 10(톤)에 따른 상수도요금 오름차순 랭킹 5
+
+13:23:40.871 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.parser.JsonDataParser].[toString] [0ms]
+
+13:23:40.964 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.parser.JsonDataParser].[readFile] [92ms]
+
+13:23:40.965 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[load] [158ms]
+
+13:23:40.998 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[findTicketByUsage] [6ms]
+
+13:23:41.001 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.DefaultUsageWaterworks].[calculateUsagePrice] [34ms]
+
+13:23:41.043 [main] INFO  c.n.e.project.service.log.LogService - 
+[WaterBill{city=청송군, sector='가정용, unitPrice=220, totalPrice=2200}
+, WaterBill{city=고령군, sector='공업용, unitPrice=230, totalPrice=2300}
+, WaterBill{city=진도군, sector='가정용, unitPrice=300, totalPrice=3000}
+, WaterBill{city=청송군, sector='욕탕용, unitPrice=330, totalPrice=3300}
+, WaterBill{city=예천군, sector='가정용, unitPrice=345, totalPrice=3450}
+]
+13:23:41.043 [main] INFO  c.n.e.project.service.log.LogService - ===================================================================================
+
+13:23:41.043 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.ReportResult].[showResult] [41ms]
+
+13:25:28.591 [main] INFO  c.n.e.project.service.log.LogService - 사용량 10(톤)에 따른 상수도요금 오름차순 랭킹 5
+
+13:25:28.792 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.parser.JsonDataParser].[readFile] [100ms]
+
+13:25:28.792 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[load] [184ms]
+
+13:25:28.821 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[findTicketByUsage] [1ms]
+
+13:25:28.825 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.DefaultUsageWaterworks].[calculateUsagePrice] [31ms]
+
+13:25:28.849 [main] INFO  c.n.e.project.service.log.LogService - 
+[WaterBill{city=청송군, sector='가정용, unitPrice=220, totalPrice=2200}
+, WaterBill{city=고령군, sector='공업용, unitPrice=230, totalPrice=2300}
+, WaterBill{city=진도군, sector='가정용, unitPrice=300, totalPrice=3000}
+, WaterBill{city=청송군, sector='욕탕용, unitPrice=330, totalPrice=3300}
+, WaterBill{city=예천군, sector='가정용, unitPrice=345, totalPrice=3450}
+]
+13:25:28.849 [main] INFO  c.n.e.project.service.log.LogService - ===================================================================================
+
+13:25:28.849 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.ReportResult].[showResult] [24ms]
+
+13:42:59.335 [main] INFO  c.n.e.project.service.log.LogService - 사용량 300(톤)에 따른 상수도요금 오름차순 랭킹 5
+
+13:42:59.540 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.parser.JsonDataParser].[readFile] [100ms]
+
+13:42:59.540 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[load] [190ms]
+
+13:42:59.563 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.repository.FormatWaterBill].[findTicketByUsage] [1ms]
+
+13:42:59.565 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.DefaultUsageWaterworks].[calculateUsagePrice] [23ms]
+
+13:42:59.590 [main] INFO  c.n.e.project.service.log.LogService - 
+[WaterBill{city=고령군, sector='공업용, unitPrice=370, totalPrice=111000}
+, WaterBill{city=통영시, sector='원정수판매용, unitPrice=413, totalPrice=123900}
+, WaterBill{city=청송군, sector='욕탕용, unitPrice=420, totalPrice=126000}
+, WaterBill{city=금산군, sector='정수용, unitPrice=433, totalPrice=129900}
+, WaterBill{city=나주시, sector='임시용(상), unitPrice=433, totalPrice=129900}
+]
+13:42:59.590 [main] INFO  c.n.e.project.service.log.LogService - ===================================================================================
+
+13:42:59.590 [main] INFO  c.n.e.project.service.log.LogService - [class com.nhnacademy.edu.project.service.ReportResult].[showResult] [24ms]
+
+14:15:20.889 [main] INFO  c.n.e.project.service.log.LogService - 
+[WaterBill{city=광주, sector='서구, unitPrice=300, totalPrice=null}
+, WaterBill{city=광주, sector='동구, unitPrice=300, totalPrice=null}
+, WaterBill{city=광주, sector='북구, unitPrice=300, totalPrice=null}
+]
+14:15:20.893 [main] INFO  c.n.e.project.service.log.LogService - ===================================================================================
+
